@@ -4,7 +4,6 @@
 #include <cctype>
 #include <fstream>
 #include <string>
-#include <vector>
 
 enum CommandType {
     A_COMMAND,
